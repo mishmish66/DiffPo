@@ -17,7 +17,7 @@ python diffpo.py --repo-id "lerobot/svla_so100_pickplace" --train-batch-size 64 
 
 Feel free to reach out for any questions or help getting this working.
 
-Heavily based on the [lucidrains Diffusion 1d](https://github.com/lucidrains/denoising-diffusion-pytorch/blob/main/denoising_diffusion_pytorch/denoising_diffusion_pytorch_1d.py) implementation inspired by both that repo and the (CleanRL repo)[https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl]
+Heavily based on the [lucidrains Diffusion 1d](https://github.com/lucidrains/denoising-diffusion-pytorch/blob/main/denoising_diffusion_pytorch/denoising_diffusion_pytorch_1d.py) implementation inspired by both that repo and the [CleanRL repo](https://github.com/vwxyzjn/cleanrl/tree/master/cleanrl)
 
 :)
 
